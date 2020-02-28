@@ -27,7 +27,7 @@
      <string>db Connection</string>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEdit">
+   <widget class="QLineEdit" name="usernameLogin">
     <property name="geometry">
      <rect>
       <x>40</x>
@@ -37,7 +37,7 @@
      </rect>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEdit_2">
+   <widget class="QLineEdit" name="passwordLogin">
     <property name="geometry">
      <rect>
       <x>40</x>
