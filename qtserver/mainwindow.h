@@ -8,7 +8,7 @@
 #include <QSqlDriverPlugin>
 #include "dialog.h"
 
-
+//hello
 
 namespace Ui {
 class MainWindow;
